@@ -1,5 +1,11 @@
 data/
+output/
+mlruns/
 other_notes/
+.DS_Store
+*.db
+*.pkl
+*.parquet
 
 # --- auto by github ---
 # Byte-compiled / optimized / DLL files
