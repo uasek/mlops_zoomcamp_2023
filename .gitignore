@@ -1,6 +1,7 @@
 data/
 output/
 mlruns/
+wandb/
 other_notes/
 .DS_Store
 *.db
